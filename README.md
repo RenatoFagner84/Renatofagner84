@@ -18,13 +18,13 @@ Eu sou um estudante de programação apaixonado por desenvolvimento de software 
 
 ## Projetos
 
-- Atualmente, estou trabalhando em [descreva brevemente o projeto atual].
+- Atualmente, trabalhando em desafios no curso de backend da Cubos academy.
 - Você pode conferir meus projetos anteriores e em andamento em meu repositório [aqui](link para o seu repositório).
 
 ## Contato
 
-- 📫 Você pode entrar em contato comigo por e-mail: [seu endereço de e-mail].
-- 💬 Ou você pode me encontrar no [LinkedIn](link para o seu perfil do LinkedIn).
+- 📫 Você pode entrar em contato comigo por e-mail: renatorodrigues84@hotmail.com.
+- 💬 Ou você pode me encontrar no LinkedIn  https://www.linkedin.com/in/renato-fagner-6454b152/.
 
 ## Habilidades
 
