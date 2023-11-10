@@ -1,6 +1,6 @@
  Olá, meu nome é Renato Fagner! 👋
 
-Eu sou um estudante de programação apaixonado por desenvolvimento de software backend e estou focado em aprimorar minhas habilidades em JavaScript, Node.js, SQL, PostgreSQL, Express, Axios, Pool e Qs. Aqui estão algumas informações sobre mim:
+Eu apaixonado por desenvolvimento de software backend e estou focado em aprimorar minhas habilidades em JavaScript, Node.js, SQL, PostgreSQL,knex, Express, Axios, Pool, Qs e typescrypt. Aqui estão algumas informações sobre mim:
 
 ## Sobre mim
 
@@ -14,12 +14,17 @@ Eu sou um estudante de programação apaixonado por desenvolvimento de software 
   - Axios
   - Pool
   - Qs
+  - Bcrypt
+  - jwt
+  - knex
+  - typescript
+    
 - 💼 Sou um entusiasta de desenvolvimento de software backend e estou ansioso para construir soluções robustas e eficientes.
 
 ## Projetos
 
 - Atualmente, trabalhando em desafios no curso de backend da Cubos academy.
-- Você pode conferir meus projetos anteriores e em andamento em meu repositório [aqui](link para o seu repositório).
+- Você pode conferir meus projetos anteriores e em andamento em meus repositórios.
 
 ## Contato
 
@@ -29,7 +34,7 @@ Eu sou um estudante de programação apaixonado por desenvolvimento de software 
 ## Habilidades
 
 - 👩‍💻 Desenvolvimento de software backend.
-- 💾 Trabalho com bancos de dados SQL, especialmente PostgreSQL.
+- 💾 Trabalho com bancos de dados SQL, especialmente PostgreSQL,knex.
 - 🌐 Comunicação com APIs externas utilizando Axios.
 - 📦 Utilização de Pool e Qs para otimizar o desempenho das consultas e conexões.
 
